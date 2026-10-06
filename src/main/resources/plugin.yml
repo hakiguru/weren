@@ -1,0 +1,6 @@
+name: weren
+version: '1.0-SNAPSHOT'
+main: org.weren.weren.Weren
+api-version: '1.20'
+authors: [ nothing_developer ]
+softdepend: [ PlaceholderAPI ]
